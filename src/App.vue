@@ -16,9 +16,9 @@ export default {
     return {
       msg:'Welcome to Your Vue.js App',
       todos:[
-        {text:'学习1 JS',id:'1'},
-        {text:'学习2 Vue',id:'2'},
-        {text:'学习3 React',id:'3'}
+        {text:'学习1 JS',id:'2'},
+        {text:'学习2 Vue',id:'3'},
+        {text:'学习3 React',id:'4'}
       ]
     } 
   },
