@@ -19,7 +19,7 @@ export default {
         {text:'学习1 JS',id:'2'},
         {text:'学习2 Vue',id:'3'},
         {text:'学习3 React',id:'4'},
-        {text:'学习4React',id:'5'}
+        {text:'学习4React',id:'7'}
       ]
     } 
   },
