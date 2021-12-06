@@ -19,14 +19,15 @@ export default {
         {text:'学习1 JS',id:'2'},
         {text:'学习2 Vue',id:'3'},
         {text:'学习3 React',id:'4'},
-        {text:'学习4React',id:'9'},
+        {text:'学习4 React',id:'9'},
       ]
     } 
   },
   methods:{
     addList:function(item){
-      console.log(item)
-      this.todos.push(item)
+      console.log(item);
+      this.todos.push(item);
+      debugger;
     }
   }
 }
